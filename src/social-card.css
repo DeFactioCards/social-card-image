@@ -13,10 +13,11 @@ background: radial-gradient(circle, rgba(24,144,255,1) 55%, rgba(20,98,170,1) 10
 }
 .SocialCard h1 {
   font-size: 5rem;
-  color: rgb(9, 116, 134);
+  color: rgb(255, 255, 255);
 }
 .SocialCard hr {
   height: 100%;
   width: 4px;
-  background-color: rgb(9, 116, 134);
+  background: rgb(24,144,255);
+background: radial-gradient(circle, rgba(24,144,255,1) 55%, rgba(20,98,170,1) 100%);
 }
