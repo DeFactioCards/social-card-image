@@ -1,13 +1,10 @@
 .SocialCardWrapper {
-  background: rgb(9, 116, 134);
+  background: rgb(24,144,255);
   padding: 16px;
 }
 .SocialCard {
-  background: linear-gradient(
-    160deg,
-    rgb(252, 238, 179) 0%,
-    rgb(241, 241, 219) 95%
-  );
+  
+background: radial-gradient(circle, rgba(24,144,255,1) 55%, rgba(20,98,170,1) 100%);
   display: flex;
   flex-direction: row;
   color: black;
